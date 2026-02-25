@@ -5,7 +5,7 @@
 ## Запуск
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
+git clone [https://github.com/<user>/<repo>.git](https://github.com/eeephemera/devopsjun.git)
 cd <repo>
 
 docker compose up -d --build
